@@ -1,0 +1,19 @@
+﻿#cards {
+    width: 80%;
+    display:flex;
+    flex-wrap:wrap;
+}
+.card {
+    margin: 20px;
+    width: 18rem;
+}
+.buttons{
+    display:flex;
+
+}
+.cart{
+    width: 27%;
+}
+section {
+    display: flex;
+}
